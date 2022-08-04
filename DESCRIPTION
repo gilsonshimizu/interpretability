@@ -11,9 +11,9 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Depends: 
+    ggplot2,
+    kernlab,
+    leaps,
     R (>= 2.10),
-    randomForest, 
-    ggplot2, 
-    kernlab, 
-    leaps
+    randomForest
 LazyData: true
